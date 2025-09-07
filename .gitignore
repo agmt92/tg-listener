@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment & secrets
+.env
+.env.*
+*.env
+
+# Telethon session files
+*.session
+*.session-journal
+
+# State and test files
+state.json
+test_state.json
+
+# VSCode and editor folders
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
